@@ -5,12 +5,12 @@ abcde
 
 sonu
 abc
-<<<<<<< HEAD
+
 asdjhakshdaksh
 ljdlajdlkjasd
 hasdkjahskdhaskd
 hdkahdkjashdkasdkhakdhwd
-=======
+
 sadasdas
 aaaaaa
 vvvvvv
@@ -18,4 +18,4 @@ vvvvvv
 kdhaksdhkad
 hdkashdkahsdkj
 hkashdkashdkhas
->>>>>>> d629be3f6dd055e33ef4f0229e09761f7a91b254
+
